@@ -1,2 +1,3 @@
-Hospital Mangment System 
-Authors 1 - omar abadi 2- moahamed gomaa
+this repo was merged into the newer version [here]([url](https://github.com/Adelkazzaz/Hospital_Management_System))
+
+(i was new to this whole version control thing alright)
